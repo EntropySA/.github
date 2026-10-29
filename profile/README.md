@@ -23,15 +23,29 @@ Entropy is a Data & AI company based in Riyadh, Saudi Arabia, serving public and
 
 We partner across the full Data & AI lifecycle—from reliable data foundations to intelligent products, enterprise platforms, and specialized AI use cases—with a focus on measurable impact.
 
-## Intelligent Products
+## Intelligent Products & Platforms
 
-Our product suite connects systems, decisions, and people to operationalize intelligence at scale.
+Our portfolio brings together enterprise intelligence, specialized AI applications, and tools that turn data into action.
 
 | Product | What it enables |
 | --- | --- |
-| [Hydrogen](https://entropy.sa/hydrogen) | Enterprise AI agents, knowledge integration, and workflow automation, orchestrated around your organization's data and operations. |
-| [Axiom](https://entropy.sa/axiom) | AI-native analytics and decision-making, bringing data exploration, machine learning, and actionable insights into a unified experience. |
-| [Yameen](https://entropy.sa/yameen) | Arabic-first meeting intelligence that captures conversations, generates meeting minutes and action items, and makes past discussions searchable through natural-language interaction. |
+| [Hydrogen](https://entropy.sa/hydrogen) | Enterprise AI agents, knowledge integration, and workflow automation. |
+| [Axiom](https://entropy.sa/axiom) | AI-native analytics, machine learning, and actionable business insights. |
+| [Yameen](https://entropy.sa/yameen) | Arabic-first meeting intelligence, automated minutes, action items, and conversational access to past discussions. |
+| **Cortex** | Document intelligence with conversational search, page-level citations, structured extraction, classification, and knowledge graphs. |
+| **Revelate** | Conversational data exploration that turns natural-language questions into queries and understandable insights. |
+| **Faheim** | AI-assisted financial research across Saudi-listed companies' financial statements, annual reports, and announcements. |
+| **Nebras** | Arabic legal research and case exploration, including laws, precedents, and similar cases. |
+| **Retina** | Computer-vision applications for visual analysis, with prototypes spanning video monitoring and human-reviewed accident assessment. |
+
+## Engineering & Productivity Tools
+
+Alongside our product portfolio, we develop tools that support AI delivery and team productivity.
+
+- **AI Studio:** An evolving platform for approval-driven workflows spanning business requirements, specifications, prototypes, code, and testing.
+- **Review Desk:** Collaborative review and quality checking of question-and-answer datasets.
+- **Proposal tools:** Automation for technical proposals and Arabic presentation decks.
+- **Vortex:** Content ingestion and retrieval components for document-powered AI applications.
 
 ## Data & AI Services
 
